@@ -1,1 +1,1 @@
-# Testing-Github
+# Image search application
